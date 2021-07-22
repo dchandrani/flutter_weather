@@ -80,4 +80,3 @@ class Weather extends Equatable {
     );
   }
 }
-{"mode":"full","isActive":false}
